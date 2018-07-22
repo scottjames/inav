@@ -16,7 +16,7 @@
 #
 
 # The target to build, see VALID_TARGETS below
-TARGET    ?= SPRACINGF3
+TARGET    ?= OMNIBUSF4PRO_LEDSTRIPM5
 
 # Compile-time options
 OPTIONS   ?=
